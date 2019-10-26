@@ -1,3 +1,9 @@
+# Experimenting with ClojureScript
+
+![experimenting-with-cljs](https://user-images.githubusercontent.com/25663729/67620445-3e962e80-f807-11e9-9b94-e0f5f760c08c.png)
+
+Using Create CLJS App, I create a basic ClojureScript/Reagent with a menu which could be used to change the content of the page.
+
 This project was bootstrapped with [Create CLJS App](https://github.com/filipesilva/create-cljs-app).
 
 ## Available Scripts
