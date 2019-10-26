@@ -2,7 +2,7 @@
   (:require
     [reagent.core :as r]))
 
-(defn app [] [:div "my-website is running!"])
+(defn app [] [:div "Øyvind Sæbø"])
 
 (defn ^:dev/after-load start
   []
